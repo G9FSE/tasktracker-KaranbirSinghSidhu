@@ -1,0 +1,13 @@
+{
+  "name": "task-manager-cli",
+  "version": "1.0.0",
+  "description": "A command-line task manager that stores tasks in JSON",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["cli", "task", "manager"],
+  "author": "",
+  "license": "ISC"
+}
